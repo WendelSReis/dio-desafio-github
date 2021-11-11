@@ -1,2 +1,2 @@
-# dio-desafio-github
+# Repositório dos Desafios de Projeto do bootcamp Spread
 Projeto Dio Spread
